@@ -1,9 +1,10 @@
+Link to the Heroku deployment:
+http://floating-fire-3393.heroku.com/
+
+
 ==Test change for tutorial 1.3.5!!
 
-== Welcome to Rails
-
-Rails is a web-application framework that includes everything needed to create
-database-backed web applications according to the Model-View-Control pattern.
+atabase-backed web applications according to the Model-View-Control pattern.
 
 This pattern splits the view (also called the presentation) into "dumb"
 templates that are primarily responsible for inserting pre-built data in between
